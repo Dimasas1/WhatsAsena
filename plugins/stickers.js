@@ -34,9 +34,7 @@ Asena.addCommand({pattern: 'sticker', fromMe: true, desc: Lang.STICKER_DESC}, (a
                 throw err;
             }
         
-            await message.sendMessage(fs.readFileSync('./output.webp'), MessageType.sticker);
-        });
-        return await downloading.delete();
+            await message.sendMessage(fs.readFileSync('./output.webp'), MessageType.sticker)
     }
 
     ffmpeg(location)
