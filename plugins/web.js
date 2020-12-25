@@ -50,5 +50,5 @@ Asena.addCommand({pattern: 'ping', fromMe: true, deleteCommand: false, desc: Lan
 
   await msg.delete();
   await message.client.sendMessage(
-    message.jid,'*Pong!*\n```' + (end - start) + 'ms```', MessageType.text);
+    message.jid,'*Ini Pingnya Sayang!*\n```' + (end - start) + 'ms```', MessageType.text);
 }));
