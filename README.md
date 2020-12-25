@@ -34,11 +34,11 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dimasas1/WhatsAsena)
 
 ### The Hard Method
 ```js
-git clone https://github.com/Quiec/WhatsAsena.git
+git clone https://github.com/Dimasas1/WhatsAsena.git
 cd WhatsAsena
 npm i
 # Config.env oluşturun ve düzenleyin. #
