@@ -46,13 +46,13 @@
         },
         "afk": {
             "AFK_DESC": "Itu membuat Anda AFK.",
-            "IM_AFK": "*Saya AFK sekarang!*",
-            "IM_AFK_NOMD": "Saya AFK sekarang!",
+            "IM_AFK": "*Saya Offline sekarang!*",
+            "IM_AFK_NOMD": "Saya Offline sekarang!",
             "REASON": "Alasan",
             "LAST_SEEN": "Terakhir dilihat",
             "IM_NOT_AFK": "```Saya tidak lagi AFK!```",
-            "AFK_TEXT": "```Bip bop! Ini adalah bot. Pemilik saya tidak ada di sini saat ini.```",
-            "AFK_TEXT_NOMD": "Bip bop! Ini adalah bot. Pemilik saya tidak ada di sini saat ini.",
+            "AFK_TEXT": "```Maaf Sayang! Ini adalah bot. Pacar saya tidak ada di sini saat ini.```",
+            "AFK_TEXT_NOMD": "Maaf Sayang! Ini adalah bot. Pacar saya tidak ada di sini saat ini.",
             "HOUR": "jam",
             "MINUTE": "menit",
             "SECOND": "detik"
@@ -174,7 +174,7 @@
         "sticker": {
             "STICKER_DESC": "Ini mengubah foto atau video yang Anda balas dengan mengetik .sticker menjadi stiker.",
             "NEED_REPLY": "*Balas ke foto atau video!*",
-            "DOWNLOADING": "```Mengunduh media & menjadikannya stiker...```"
+            "DOWNLOADING": "```Sabar Sayang...```"
         },
         "system_stats": {
             "ALIVE_DESC": "Apakah bot berfungsi?",
